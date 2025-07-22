@@ -1,8 +1,6 @@
 # 💬 QueryBot – AI-Powered SQL Assistant
 QueryBot is an interactive AI agent built with LangChain, Streamlit, and Groq’s Gemma model that allows users to chat directly with SQL databases. It supports selecting, inserting, deleting, and updating records through natural language — no SQL knowledge required.
 
-<!-- Replace with an actual screenshot if available -->
-
 # 🚀 Features
 🔍 Conversational SQL Access — Query data from your SQLite or MySQL database using plain English.
 
@@ -31,25 +29,17 @@ SQLAlchemy — Database abstraction
 
 # ⚙️ How to Run
 1. Clone the Repo
-bash
-Copy
-Edit
-git clone https://github.com/your-username/querybot.git
-cd querybot
-2. Install Dependencies
-bash
-Copy
-Edit
+2. 
+3. Install Dependencies
+
 pip install -r requirements.txt
-3. Add Your Database
+4. Add Your Database
 For SQLite: Place your student.db in the project directory.
 
 For MySQL: Provide host, user, password, and DB name in the sidebar.
 
 4. Run Streamlit App
-bash
-Copy
-Edit
+
 streamlit run app.py
 5. Enter Your Groq API Key
 You can get your API key from Groq Console.
