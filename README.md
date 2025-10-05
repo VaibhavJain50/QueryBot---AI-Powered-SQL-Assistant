@@ -1,5 +1,4 @@
 # 💬 QueryBot – AI-Powered SQL Assistant
-# Mini Agentic SQL Bot
 
 A FastAPI-based SQL agent that interacts with multiple MySQL databases using **LangGraph** and **LangChain**. 
 The agent can handle natural language queries, generate SQL automatically, execute it, and return results in human-readable format.
@@ -282,3 +281,4 @@ Code Structuring & Suggestions – AI assisted with planning and organizing work
 Debugging Guidance – Provided hints for resolving database connection and SQL execution issues.
 
 Documentation & README Drafting – Assisted in creating clean and structured explanations for the system design, workflow, and API usage.
+
